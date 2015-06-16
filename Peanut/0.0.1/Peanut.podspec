@@ -6,5 +6,5 @@ Pod::Spec.new do |s|
   s.authors  = {'Philippe PRAUD' => 'philippe.praud@polestar.eu'}
   s.source   = {:git => "git@github.com:PhilippePolestar/cocoapod.git"}
   s.license  = 'license'
-  s.source_files  = '*.{a,h,framework}'
+  s.source_files  = '*.{a,h}'
 end
