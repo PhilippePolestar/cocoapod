@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
   s.name     = 'Peanut'
   s.version  = '0.0.1'
   s.summary  = 'Testing cocoapods'
-  s.homepage = 'git@github.com:PhilippePolestar/cocoapod.git'
-  s.authors  = {'Philippe PRAUD' => 'philippe.praud@polestar.eu', 'Philippe PRAUD' => 'philippe.praud@polestar.eu'}
-  s.source   = {:git => "git@github.com:PhilippePolestar/cocoapod.git", :tag => "0.0.1"}
+  s.homepage = 'https://github.com/PhilippePolestar/cocoapod'
+  s.authors  = {'Philippe PRAUD' => 'philippe.praud@polestar.eu'}
+  s.source   = {:git => "git@github.com:PhilippePolestar/cocoapod.git"}
   s.license  = 'license'
   s.source_files  = '*.{a,h,framework}'
 end
